@@ -50,12 +50,20 @@ navbar-nav li {
   color: white;
   text-transform: uppercase;
 }
+.cloudmart{
+  height: 150px !important;
+  width: 170px !important; 
+}
 .caption h1 {
   font-size: 3.8rem;
   font-weight: 700;
   letter-spacing: 0.3rem;
   text-shadow: 0.1rem, 0.1rem, 0.8rem black;
   animation: fadeUp;
+}
+blockquote{
+  width: 250px;
+  padding-left: 30px;
 }
 .caption h3 {
   font-size: 2rem;
@@ -84,6 +92,11 @@ navbar-nav li {
 
 #features i {
   color: rgb(12, 64, 167);
+}
+
+.js-image{
+  height: 50px;
+  width: 50px;
 }
 
 .narrow {
